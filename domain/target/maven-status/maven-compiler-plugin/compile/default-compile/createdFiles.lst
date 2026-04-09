@@ -1,0 +1,3 @@
+io/github/mongo/login/entity/Login.class
+io/github/mongo/login/entity/Roles.class
+io/github/mongo/login/repository/LoginRepository.class

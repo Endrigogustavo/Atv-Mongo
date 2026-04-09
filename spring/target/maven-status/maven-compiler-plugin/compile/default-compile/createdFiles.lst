@@ -1,0 +1,10 @@
+io/github/mongo/login/repository/LoginRepositoryImpl.class
+io/github/mongo/login/controller/dto/request/LoginRequest.class
+io/github/mongo/login/controller/LoginController.class
+io/github/mongo/login/IntroducaoApplication.class
+io/github/mongo/login/repository/orm/LoginOrmMongo.class
+io/github/mongo/login/repository/mongo/LoginRepositoryWithMongoDB.class
+io/github/mongo/login/controller/dto/response/LoginResponse.class
+io/github/mongo/login/controller/adapter/LoginControllerAdapter.class
+io/github/mongo/login/repository/adapter/LoginRepositoryAdapter.class
+io/github/mongo/login/config/RepositoryConfig.class
